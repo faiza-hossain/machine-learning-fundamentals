@@ -1,5 +1,5 @@
 # machine-learning-fundamentals
-Documenting my machine learning journey through hands-on practice with DataCamp
+Documenting my machine learning journey through hands-on practice
 ## Notebooks
 | # | Topic | Notebook |
 |---|---|---|
